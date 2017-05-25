@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\bin\Debug\SecurityPissaris.exe.config
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\bin\Debug\SecurityPissaris.exe
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\bin\Debug\SecurityPissaris.pdb
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.frmStart.resources
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.exe
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.pdb
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.frmMD5.resources
+c:\users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.frmRSA.resources
+C:\Users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.frmAES.resources
+C:\Users\user\documents\visual studio 2017\Projects\SecurityPissaris\SecurityPissaris\obj\Debug\SecurityPissaris.frmSHA1.resources
